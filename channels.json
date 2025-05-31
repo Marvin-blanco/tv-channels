@@ -2,32 +2,36 @@
   {
     "name": "24 Horas Internacional [Geo-blocked]",
     "resolutions": {
-    "360p": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
-    "480p": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
+      "360p": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
+      "480p": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
+    }
   },
   {
     "name": "Canal 2 (480p) [Not 24/7]",
     "resolutions": {
-    "360p": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
-    "480p": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+      "360p": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8",
+      "480p": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+    }
   },
   {
     "name": "Canal 4 (El Salvador) (1080p) [Not 24/7]",
     "resolutions": {
-    "360p": "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8",
-    "480p": "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8"
+      "360p": "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8",
+      "480p": "https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8"
+    }
   },
   {
     "name": "Canal 6 (480p) [Not 24/7]",
     "resolutions": {
-    "360p": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
-    "480p": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
+      "360p": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
+      "480p": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
+    }
   },
   {
     "name": "Canal 11 TuTV (349p)",
     "resolutions": {
-    "360p": "https://stream.giostreaming.net:19360/canal11/canal11.m3u8",
-    "480p": "https://stream.giostreaming.net:19360/canal11/canal11.m3u8"
-  },
-  {
+      "360p": "https://stream.giostreaming.net:19360/canal11/canal11.m3u8",
+      "480p": "https://stream.giostreaming.net:19360/canal11/canal11.m3u8"
+    }
+  }
 ]
